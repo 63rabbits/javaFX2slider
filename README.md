@@ -4,7 +4,7 @@ Slider by JavaFX2.
 
 Process in the following three ways.
 
-* Event Handler
+* Listener
 * Bind(High-level API)
 * Bind(Low-level API)
 
